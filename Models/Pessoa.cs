@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CadastroUsuarios.Models
 {
+    
     public class Pessoa
     {
         [Key]
@@ -34,14 +35,14 @@ namespace CadastroUsuarios.Models
 
         [Required]
         [StringLength(100)]
-        public string Endereco { get; set; }
+        public string Endereço { get; set; }
 
         [Required]
         [StringLength(5)]
         public string Número { get; set; }
 
         [StringLength(50)]
-        public string Complemento { get; set; }
+        public string? Complemento { get; set; }
         [Required]
         [StringLength(30)]
         public string Bairro { get; set; }

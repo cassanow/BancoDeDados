@@ -13,7 +13,7 @@ namespace CadastroUsuarios.Controllers
         public IActionResult Index()
         {
             var pessoas = _context.Pessoa.ToList();
-            return View();
+            return View(pessoas);
         }
     }
 }
