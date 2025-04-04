@@ -138,7 +138,6 @@ C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\Cadas
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.RazorAssemblyInfo.cache
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.RazorAssemblyInfo.cs
-C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.sourcelink.json
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\scopedcss\bundle\CadastroUsuarios.styles.css
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\scopedcss\projectbundle\CadastroUsuarios.bundle.scp.css
@@ -221,3 +220,4 @@ C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\refin
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.pdb
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.genruntimeconfig.cache
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\ref\CadastroUsuarios.dll
+C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
