@@ -9,7 +9,6 @@ Este repositório contém um projeto ASP.NET Core onde **foi criada a estrutura 
 - Criação do projeto com ASP.NET Core MVC
 - Criação da classe `Pessoa` como modelo
 - Configuração do Entity Framework Core
-- Criação do `DbContext`
 - Conexão com banco de dados SQL Server
 - Teste da conexão via migrations e acesso via controller
 
