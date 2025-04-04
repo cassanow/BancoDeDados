@@ -1,0 +1,5 @@
+# .gitignore
+*.user
+*.userosscache
+*.suo
+secrets.json
