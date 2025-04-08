@@ -1,25 +1,46 @@
 ﻿@model List<CadastroUsuarios.Models.Pessoa>
 
+<div class="container my-5">
 
-<div class="container">
-  <h2 class="text-center mb-4">Lista de Pessoas</h2>
-
-  <div class="row fw-bold border-bottom pb-2 mb-2">
-    <div class="col">Nome</div>
-    <div class="col">CPF</div>
-    <div class="col">Sexo</div>
-    <div class="col">Cidade</div>
-    <div class="col">UF</div>
-  </div>
-
-  @foreach (var pessoa in Model)
-  {
-    <div class="row border-bottom py-2">
-      <div class="col">@pessoa.Nome</div>
-      <div class="col">@pessoa.CPF</div>
-      <div class="col">@pessoa.Sexo</div>
-      <div class="col">@pessoa.Cidade</div>
-      <div class="col">@pessoa.UF</div>
+    <div class="table-responsive bg-white p-3 rounded shadow">
+        <table class="table table-bordered table-hover align-middle text-dark">
+            <thead class="table-light text-center fw-bold">
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>Data Nascimento</th>
+                    <th>Sexo</th>
+                    <th>Estado Civil</th>
+                    <th>CPF</th>
+                    <th>CEP</th>
+                    <th>Endereço</th>
+                    <th>Número</th>
+                    <th>Complemento</th>
+                    <th>Bairro</th>
+                    <th>Cidade</th>
+                    <th>UF</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var pessoa in Model)
+                {
+                    <tr>
+                        <td class="text-center">@pessoa.ID</td>
+                        <td>@pessoa.Nome</td>
+                        <td class="text-center">@pessoa.DataNascimento.ToString("dd/MM/yyyy")</td>
+                        <td class="text-center">@pessoa.Sexo</td>
+                        <td class="text-center">@pessoa.EstadoCivil</td>
+                        <td class="text-center">@pessoa.CPF</td>
+                        <td class="text-center">@pessoa.CEP</td>
+                        <td>@pessoa.Endereço</td>
+                        <td class="text-center">@pessoa.Número</td>
+                        <td>@pessoa.Complemento</td>
+                        <td>@pessoa.Bairro</td>
+                        <td>@pessoa.Cidade</td>
+                        <td class="text-center">@pessoa.UF</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
     </div>
-  }
 </div>

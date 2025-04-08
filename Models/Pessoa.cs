@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CadastroUsuarios.Models
 {
-    [Table("Pessoas")]
+    [Table("Pessoa")]
     public class Pessoa
     {
         [Key]
