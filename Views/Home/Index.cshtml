@@ -2,7 +2,12 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="d-flex justify-content-center align-items-center min-vh-100">
+    <div class="container text-center">
+        <h1 class="display-4 mb-5">Bem-vindo ao Sistema de Cadastro de Usuários!</h1> 
+        <p><a href="@Url.Action("Criar", "Pessoa")" class="btn btn-primary w-50 mb-2">Cadastrar Nova Pessoa</a></p>
+        <p><a href="@Url.Action("Editar", "Pessoa")" class="btn btn-secondary w-50 mb-2">Editar</a></p>
+        <p><a href="@Url.Action("Remover", "Pessoa")" class="btn btn-secondary w-50 mb-2">Remover</a></p>
+        <p><a href="@Url.Action("PessoasCadastradas", "Pessoa")" class="btn btn-secondary w-50">Ver Pessoas Cadastradas</a></p>
+    </div>
 </div>

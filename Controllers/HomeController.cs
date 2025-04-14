@@ -17,14 +17,4 @@ public class HomeController : Controller
     {
         return View();
     }
-
-    public IActionResult Editar()
-    {
-        return View();
-    }
-
-    public IActionResult Remover()
-    {
-        return View();
-    }
 }
