@@ -221,4 +221,3 @@ C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\Cadas
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.genruntimeconfig.cache
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\ref\CadastroUsuarios.dll
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.sourcelink.json
-C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

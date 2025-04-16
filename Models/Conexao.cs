@@ -13,7 +13,5 @@ namespace CadastroUsuarios.Models
 
         public DbSet<Pessoa> Pessoa { get; set; }
 
-       
-
     }
 }
