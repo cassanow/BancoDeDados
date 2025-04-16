@@ -1,4 +1,14 @@
 ﻿@model CadastroUsuarios.Models.Pessoa;
+@{
+    if (Model.ID > 0)
+    {
+        ViewData["Title"] = "Editar Pessoa";
+    }
+    else
+    {
+        ViewData["Title"] = "Criar Pessoa";
+    }
+}
 
 <style>
     body {
@@ -15,18 +25,29 @@
         color: white;
     }
 </style>
-<div class="text-center">
-    <h1 class="display-4">Adicionar um Usuário</h1>
-</div>
-    <form asp-action="Criar" method="post">
-        <div class="mb-3">
-            <label class="form-label">Nome</label>
-            <input asp-for="Nome" type="text" class="form-control">
-        </div>
-        <div class="mb-3">
-            <label class="form-label">Data de Nascimento </label>
+
+
+<h2>
+    @if (Model.ID > 0)
+    {
+        <text>Editar Pessoa</text>
+    }
+    else
+    {
+        <text>Adicionar Pessoa</text>
+    }
+</h2>
+<br/>
+<form asp-action="Criar" method="post">
+    <input type="hidden" asp-for="ID" />
+    <div class="mb-3">
+        <label class="form-label">Nome</label>
+        <input asp-for="Nome" type="text" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Data de Nascimento </label>
         <input asp-for="DataNascimento" type="date" class="form-control">
-        </div>
+    </div>
     <div class="mb-3">
         <label class="form-label">Sexo</label>
         <input asp-for="Sexo" type="text" class="form-control">
@@ -67,9 +88,9 @@
         <label class="form-label">UF</label>
         <input asp-for="UF" type="text" class="form-control">
     </div>
-        <button type="submit" class="btn btn-primary">Confirmar</button>
+    <button type="submit" class="btn btn-primary">Confirmar</button>
     <div class="text-center mt-4">
         <a href="@Url.Action("Index", "Home")" class="btn btn btn-primary w-255">Voltar ao Menu</a>
     </div>
 
-    </form>
+</form>

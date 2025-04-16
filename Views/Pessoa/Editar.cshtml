@@ -1,5 +1,17 @@
 ﻿@model CadastroUsuarios.Models.Pessoa;
+@{
+    ViewData["Title"] = "Editar";
+}
 
+<h2><text>Editar</text></h2>
+<br/>
+<form asp-action="Editar" method="post">
+    <div class="mb-3">
+        <label class="form-label">Qual o ID da pessoa que deseja editar?</label>
+        <input asp-for="ID" type="number" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Confirmar</button>
+</form>
 <div class="text-center mt-4">
     <a href="@Url.Action("Index", "Home")" class="btn btn btn-primary w-25">Voltar ao Menu</a>
 </div>

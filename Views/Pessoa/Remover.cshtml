@@ -1,8 +1,20 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model CadastroUsuarios.Models.Pessoa;
+
 @{
+    ViewData["Title"] = "Remover";
 }
+<h2><text>Remover</text></h2>
+<br/>
+<form asp-action="Remover" method="post">
+    <div class="mb-3">
+        <label class="form-label">Qual o ID da pessoa que deseja remover?</label>
+        <input asp-for="ID" type="number" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Confirmar</button>
+</form>
+<div class="text-center mt-4">
+    <a href="@Url.Action("PessoasCadastradas", "Pessoa")" class="btn btn btn-primary w-30">Selecione para ver todas as pessoas cadastradas</a>
+</div>
 <div class="text-center mt-4">
     <a href="@Url.Action("Index", "Home")" class="btn btn btn-primary w-25">Voltar ao Menu</a>
 </div>
