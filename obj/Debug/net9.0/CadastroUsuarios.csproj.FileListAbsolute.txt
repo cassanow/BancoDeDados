@@ -142,7 +142,6 @@ C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\scope
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\scopedcss\bundle\CadastroUsuarios.styles.css
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\scopedcss\projectbundle\CadastroUsuarios.bundle.scp.css
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\compressed\xk6xncuyx3-b9sayid5wm.gz
-C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\compressed\2rp1b1jz3k-61n19gt1b8.gz
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\compressed\915s75n37i-xtxxf3hu2r.gz
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\compressed\4it8f4fdf5-bqjiyaj88i.gz
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\compressed\nmp5oeeomd-c2jlpeoesf.gz
@@ -221,3 +220,4 @@ C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\Cadas
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.genruntimeconfig.cache
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\ref\CadastroUsuarios.dll
 C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\CadastroUsuarios.sourcelink.json
+C:\Users\arthur\Desktop\CadastroUsuarios\CadastroUsuarios\obj\Debug\net9.0\compressed\2rp1b1jz3k-r5sq6jbqok.gz

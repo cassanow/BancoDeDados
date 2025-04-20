@@ -2,6 +2,7 @@
 using CadastroUsuarios.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 namespace CadastroUsuarios.Controllers
@@ -75,17 +76,17 @@ namespace CadastroUsuarios.Controllers
               }
               else
               {
-                  return View("Remover");
+                  ModelState.AddModelError("", "Pessoa não encontrada");
                   
               }
               await _context.SaveChangesAsync();
               return RedirectToAction("PessoasCadastradas");
         }
+        
+        
         public IActionResult PessoasCadastradas()
         {
             var pessoas = _context.Pessoa.ToList();
-
-            Console.WriteLine($"Número de pessoas cadastradas {pessoas.Count}");
             return View(pessoas);
         }
 

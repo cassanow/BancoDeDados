@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SRSDjJZl0Us2MQUeemlGEynCYxui/32Ur3pvtZvtnKM=",
+  "Hash": "XM1VQ4k8nR/oPGmOdhPs4vOTFX5TlxNAkmT9Axh+YKg=",
   "Source": "CadastroUsuarios",
   "BasePath": "_content/CadastroUsuarios",
   "Mode": "Default",
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-61n19gt1b8.gz",
+      "Identity": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-r5sq6jbqok.gz",
       "SourceId": "CadastroUsuarios",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CadastroUsuarios",
-      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "RelativePath": "favicon#[.{fingerprint=r5sq6jbqok}]?.ico.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,8 +94,8 @@
       "RelatedAsset": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nezsohjtde",
-      "Integrity": "wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=",
+      "Fingerprint": "lnxi10pmn5",
+      "Integrity": "4SskodRXeAwBqhlbr3EQ2IVtfsokEhI95OiOxcrI3/Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\wwwroot\\favicon.ico"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "r5sq6jbqok",
+      "Integrity": "8cyYL7GyBgyL0R6W7ms1+MLGeZ4i/wxo+Gt1bUZjUbk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
@@ -3622,174 +3622,13 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-61n19gt1b8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000405022276"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2468"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 17:40:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 17:40:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.61n19gt1b8.ico.gz",
-      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-61n19gt1b8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 17:40:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.ico.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
-        }
-      ]
-    },
-    {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-61n19gt1b8.gz",
+      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-r5sq6jbqok.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000405022276"
+          "Quality": "0.000137400385"
         }
       ],
       "ResponseHeaders": [
@@ -3799,15 +3638,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "7277"
         },
         {
           "Name": "ETag",
-          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+          "Value": "\"4SskodRXeAwBqhlbr3EQ2IVtfsokEhI95OiOxcrI3/Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 17:40:35 GMT"
+          "Value": "Wed, 16 Apr 2025 19:20:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3827,13 +3666,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"8cyYL7GyBgyL0R6W7ms1+MLGeZ4i/wxo+Gt1bUZjUbk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-8cyYL7GyBgyL0R6W7ms1+MLGeZ4i/wxo+Gt1bUZjUbk="
         }
       ]
     },
@@ -3848,7 +3687,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "59586"
         },
         {
           "Name": "Content-Type",
@@ -3856,11 +3695,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"8cyYL7GyBgyL0R6W7ms1+MLGeZ4i/wxo+Gt1bUZjUbk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 17:40:35 GMT"
+          "Value": "Wed, 16 Apr 2025 19:20:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3870,13 +3709,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-8cyYL7GyBgyL0R6W7ms1+MLGeZ4i/wxo+Gt1bUZjUbk="
         }
       ]
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-61n19gt1b8.gz",
+      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-r5sq6jbqok.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3885,7 +3724,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "7277"
         },
         {
           "Name": "Content-Type",
@@ -3893,11 +3732,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+          "Value": "\"4SskodRXeAwBqhlbr3EQ2IVtfsokEhI95OiOxcrI3/Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 17:40:35 GMT"
+          "Value": "Wed, 16 Apr 2025 19:20:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3915,7 +3754,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+          "Value": "sha256-4SskodRXeAwBqhlbr3EQ2IVtfsokEhI95OiOxcrI3/Q="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.r5sq6jbqok.ico",
+      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-r5sq6jbqok.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000137400385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7277"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SskodRXeAwBqhlbr3EQ2IVtfsokEhI95OiOxcrI3/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 19:20:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8cyYL7GyBgyL0R6W7ms1+MLGeZ4i/wxo+Gt1bUZjUbk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r5sq6jbqok"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8cyYL7GyBgyL0R6W7ms1+MLGeZ4i/wxo+Gt1bUZjUbk="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.r5sq6jbqok.ico",
+      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8cyYL7GyBgyL0R6W7ms1+MLGeZ4i/wxo+Gt1bUZjUbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 19:20:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r5sq6jbqok"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8cyYL7GyBgyL0R6W7ms1+MLGeZ4i/wxo+Gt1bUZjUbk="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.r5sq6jbqok.ico.gz",
+      "AssetFile": "C:\\Users\\arthur\\Desktop\\CadastroUsuarios\\CadastroUsuarios\\obj\\Debug\\net9.0\\compressed\\2rp1b1jz3k-r5sq6jbqok.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SskodRXeAwBqhlbr3EQ2IVtfsokEhI95OiOxcrI3/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 19:20:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r5sq6jbqok"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4SskodRXeAwBqhlbr3EQ2IVtfsokEhI95OiOxcrI3/Q="
         }
       ]
     },

@@ -54,5 +54,7 @@ namespace CadastroUsuarios.Models
         [Required]
         [StringLength(2)]
         public string UF { get; set; }
+        
+       
     }
 }
