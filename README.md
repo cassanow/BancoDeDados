@@ -1,4 +1,4 @@
-# 📦 Projeto Banco de Dados - ASP.NET Core
+# 📦 Projeto Cadastro Usuarios - ASP.NET Core
 
 Este repositório contém um projeto ASP.NET Core onde **foi criada a estrutura inicial da aplicação e feita a conexão com o banco de dados SQL Server** utilizando **Entity Framework Core**.
 
