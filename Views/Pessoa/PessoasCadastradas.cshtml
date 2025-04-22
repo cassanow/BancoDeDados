@@ -5,11 +5,13 @@
     ViewData["Title"] = "Pessoas Cadastradas";
 }
 
+
+
 <h2><text>Pessoas Cadastradas</text></h2>
 <div class="container my-5">
     <div class="table-bordered">
-        <table class="table table-striped-columns align-baseline">
-            
+        <table class="table table-striped-columns align-baseline"  id="table-contacts">
+            <thead>
             <tr>
                 <th>ID</th>
                 <th>Nome</th>
@@ -24,8 +26,9 @@
                 <th>Bairro</th>
                 <th>Cidade</th>
                 <th>UF</th>
-                
             </tr>
+            </thead>
+           
             <tbody>
             @foreach (var pessoa in Model)
             {
