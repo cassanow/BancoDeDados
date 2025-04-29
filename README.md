@@ -1,6 +1,6 @@
 # 📦 Projeto Cadastro Usuarios - ASP.NET Core
 
-Este repositório contém um projeto ASP.NET Core onde **foi criada a estrutura inicial da aplicação e feita a conexão com o banco de dados SQL Server** utilizando **Entity Framework Core**.
+Este repositório contém um projeto ASP.NET Core onde **foi feita a conexão com o banco de dados SQL Server** utilizando **Entity Framework Core**. Depois um CRUD básico de Cadastro de Pessoas
 
 ---
 
