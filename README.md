@@ -6,6 +6,7 @@
 - Conexão com banco de dados SQL Server
 - Migrations
 - CRUD
+- Filtro de busca
 
 ## 🛠️ Tecnologias Usadas
 
