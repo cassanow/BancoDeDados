@@ -5,7 +5,8 @@
 - Configuração do Entity Framework Core
 - Conexão com banco de dados SQL Server
 - Migrations
-- CRUD
+- CRUD Pessoas
+- CRUD Usuários
 - Filtro de busca
 
 ## 🛠️ Tecnologias Usadas
