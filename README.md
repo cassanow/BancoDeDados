@@ -6,7 +6,6 @@
 - Conexão com banco de dados SQL Server
 - Migrations
 - CRUD Pessoas
-- CRUD Usuários
 - Filtro de busca
 
 ## 🛠️ Tecnologias Usadas
@@ -14,6 +13,6 @@
 - ASP.NET Core
 - Entity Framework Core
 - SQL Server
-- C#
+
 
 ---
